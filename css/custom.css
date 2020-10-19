@@ -6,6 +6,10 @@
   margin-bottom: 1em;
 }
 
+.course {
+  margin-top: 0.5em;
+}
+
 .body {
   font-family: "Raleway", serif;
   text-transform: uppercase;
